@@ -9,5 +9,13 @@ local Qes = {
 	}, 	s = {
 		["Name"] = 3
 	},
-	Aim = 
+	Aim = {
+
+	}, p = {
+		["Name"] = 4	a ={ 
+				["Name"] = 5	k = {
+				["Name"] = 6
+			}
+		}
+	}
 }
